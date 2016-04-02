@@ -1,19 +1,16 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;OND stands for On Delay timer.&lt;&lt;&#10;     ( ) False&#10;     ( ) True&#10;     (x) Can't say&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]">
-<p>OND stands for On Delay timer.</p>
-<multiplechoiceresponse>
-  <choicegroup label="OND stands for On Delay timer." type="MultipleChoice">
-    <choice correct="false">False</choice>
-    <choice correct="false">True</choice>
-    <choice correct="true">Can't say</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
+  <p>OND stands for On Delay timer.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="OND stands for On Delay timer." type="MultipleChoice">
+      <choice correct="false">False</choice>
+      <choice correct="false">True</choice>
+      <choice correct="true">Can't say</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>

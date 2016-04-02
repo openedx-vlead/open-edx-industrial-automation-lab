@@ -1,92 +1,72 @@
 <problem display_name="Multiple Choice" markdown="&gt;&gt;Simulate input to PID function block is used when controller is in&lt;&lt;&#10;     ( ) Manual mode&#10;     ( ) Auto mode&#10;     (x) Both Auto/Manual mode&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;For cascade control action input is given to ------- parameter&lt;&lt;&#10;     ( ) CAS IN&#10;     ( ) IN&#10;     (x) FF&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;Use of ‘FB OUT’ is for&lt;&lt;&#10;     ( ) Manual mode operation&#10;     ( ) Bumpless transfer&#10;     (x) Tracking input&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;‘Reset Windup’ is limitation of ----------- action&lt;&lt;&#10;     ( ) P+D&#10;     ( ) P&#10;     (x) P+I&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;&#10;&gt;&gt;In Heat Exchanger application ----- is used as manipulated variable&lt;&lt;&#10;     ( ) Water Flow&#10;     ( ) Steam Flow&#10;     (x) Steam Temperature&#10;&#10;[explanation]&#10;Give Explanation&#10;[explanation]&#10;">
-<p>Simulate input to PID function block is used when controller is in</p>
-<multiplechoiceresponse>
-  <choicegroup label="Simulate input to PID function block is used when controller is in" type="MultipleChoice">
-    <choice correct="false">Manual mode</choice>
-    <choice correct="false">Auto mode</choice>
-    <choice correct="true">Both Auto/Manual mode</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>For cascade control action input is given to ------- parameter</p>
-<multiplechoiceresponse>
-  <choicegroup label="For cascade control action input is given to ------- parameter" type="MultipleChoice">
-    <choice correct="false">CAS IN</choice>
-    <choice correct="false">IN</choice>
-    <choice correct="true">FF</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>Use of ‘FB OUT’ is for</p>
-<multiplechoiceresponse>
-  <choicegroup label="Use of ‘FB OUT’ is for" type="MultipleChoice">
-    <choice correct="false">Manual mode operation</choice>
-    <choice correct="false">Bumpless transfer</choice>
-    <choice correct="true">Tracking input</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>‘Reset Windup’ is limitation of ----------- action</p>
-<multiplechoiceresponse>
-  <choicegroup label="‘Reset Windup’ is limitation of ----------- action" type="MultipleChoice">
-    <choice correct="false">P+D</choice>
-    <choice correct="false">P</choice>
-    <choice correct="true">P+I</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
-<p>In Heat Exchanger application ----- is used as manipulated variable</p>
-<multiplechoiceresponse>
-  <choicegroup label="In Heat Exchanger application ----- is used as manipulated variable" type="MultipleChoice">
-    <choice correct="false">Water Flow</choice>
-    <choice correct="false">Steam Flow</choice>
-    <choice correct="true">Steam Temperature</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<solution>
-<div class="detailed-solution">
-<p>Explanation</p>
-
-<p>Give Explanation</p>
-
-</div>
-</solution>
-
+  <p>Simulate input to PID function block is used when controller is in</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Simulate input to PID function block is used when controller is in" type="MultipleChoice">
+      <choice correct="false">Manual mode</choice>
+      <choice correct="false">Auto mode</choice>
+      <choice correct="true">Both Auto/Manual mode</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>For cascade control action input is given to ------- parameter</p>
+  <multiplechoiceresponse>
+    <choicegroup label="For cascade control action input is given to ------- parameter" type="MultipleChoice">
+      <choice correct="false">CAS IN</choice>
+      <choice correct="false">IN</choice>
+      <choice correct="true">FF</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>Use of ‘FB OUT’ is for</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Use of ‘FB OUT’ is for" type="MultipleChoice">
+      <choice correct="false">Manual mode operation</choice>
+      <choice correct="false">Bumpless transfer</choice>
+      <choice correct="true">Tracking input</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>‘Reset Windup’ is limitation of ----------- action</p>
+  <multiplechoiceresponse>
+    <choicegroup label="‘Reset Windup’ is limitation of ----------- action" type="MultipleChoice">
+      <choice correct="false">P+D</choice>
+      <choice correct="false">P</choice>
+      <choice correct="true">P+I</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
+  <p>In Heat Exchanger application ----- is used as manipulated variable</p>
+  <multiplechoiceresponse>
+    <choicegroup label="In Heat Exchanger application ----- is used as manipulated variable" type="MultipleChoice">
+      <choice correct="false">Water Flow</choice>
+      <choice correct="false">Steam Flow</choice>
+      <choice correct="true">Steam Temperature</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <solution>
+    <div class="detailed-solution">
+      <p>Explanation</p>
+      <p>Give Explanation</p>
+    </div>
+  </solution>
 </problem>
